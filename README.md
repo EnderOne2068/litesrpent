@@ -23,4 +23,10 @@ Windows or Linux as OS
 **3.** File size (primary executable). only 1.2 MB with 400 KB icon linking plus multiple other powerful features.
 # About modifications to core.lisp
 core.lisp **can** be modified, if so please make a GitHub repo where it can be downloaded as an extension to the litesrpent stdlibs!
+# Limits on Linux/Unix
+**1.** Precompiled source code is only distributed as a *Windows* executable, source code must be recompiled on Linux/Unix environments to run.\
+**2.** No icons on Linux/Unix environments as the logo is a .ico file, compatible primarly with Windows, requires converter for Linux/Unix environments.\
+**3.** The terminal is Windows, using Linux executables for it would result in a different interface.
+# The good part of litesrpent
+**Completely open source software that is free to distribute and develop.**
 
