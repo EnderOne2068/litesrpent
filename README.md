@@ -4,7 +4,8 @@ litesrpent is free to distribute, and has certain limitations currently as it is
 # Setup details (source code)
 Before compilation you must place the files under "include" into "src" or many compilation errors will trigger.\
 core.lisp is **not** meant to be compiled, it is loaded on running litesrpent.exe once litesrpent.c is compiled.\
-Make sure to **keep** core.lisp in stdlib, otherwise litesrpent will be utterly useless.
+Make sure to **keep** core.lisp in stdlib, otherwise litesrpent will be utterly useless.\
+Keep the runtime folder to use the JIT mode.
 # Setup details (precompiled)
 Keep **every file** where it is to avoid errors.\
 The /stdlib folder is only for core.lisp, it needs to load it and will otherwise break.
