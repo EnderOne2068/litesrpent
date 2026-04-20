@@ -29,5 +29,6 @@ core.lisp **can** be modified, if so please make a GitHub repo where it can be d
 **2.** No icons on Linux/Unix environments as the logo is a .ico file, compatible primarly with Windows, requires converter for Linux/Unix environments.\
 **3.** The terminal is Windows, using Linux executables for it would result in a different interface.
 # The good part of litesrpent
-**Completely open source software that is free to distribute and develop.**
+**Completely open source software that is free to distribute and develop.**\
+Absolutely *nobody* will try to use litesrpent to gain a profit.
 
