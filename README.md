@@ -31,4 +31,6 @@ core.lisp **can** be modified, if so please make a GitHub repo where it can be d
 ## The good part of litesrpent
 **Completely open source software that is free to distribute and develop.**\
 Absolutely *nobody* will try to use litesrpent to gain a profit.
+# CIO
+**CIO** (Continuously Interpreted Output) is the interpreter storing data of what has been parsed with a loop and continuously executing it until the conditions of the loop change.
 
