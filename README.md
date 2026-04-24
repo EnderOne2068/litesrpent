@@ -15,13 +15,12 @@ Git (amalgamation)\
 Resource Hacker (optional, but necessary for icon)\
 Windows or Linux as OS
 ## Limitations in beta
-**1.** No package definition. Will show unknown error if definition was attempted.\
-**2.** No GUI. GUI modules exist, but syntax for declaration is undefined.\
-**3.** Currently no file I/O; purely for testing and to gain popularity. Normal I/O works (like looping and finish-output).
+**1.** No GUI. GUI modules exist, but syntax for declaration is undefined. That's it for v0.2.0 (says v0.1.0 because Claude did that, but I treat it as v0.2.0 and nearly v1.0.0)
 ## Strong capabilities
 **1.** Loops. litesrpent has very, very fast loops (tested)\
 **2.** Processing. litesrpent can process huge quantities of code very quickly.\
-**3.** File size (primary executable). only 1.2 MB with 400 KB icon linking plus multiple other powerful features.
+**3.** File size (primary executable). Only 1.2 MB with 400 KB icon linking plus multiple other powerful features.\
+**4.** Powerful processing. Can process complex macros and functions very well and at high speeds.
 ## About modifications to core.lisp
 core.lisp **can** be modified, if so please make a GitHub repo where it can be downloaded as an extension to the litesrpent stdlibs!
 ## Limits on Linux/Unix
