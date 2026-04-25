@@ -14,8 +14,6 @@ GCC (C11+)\
 Git (amalgamation)\
 Resource Hacker (optional, but necessary for icon)\
 Windows or Linux as OS
-## Limitations in beta
-**1.** No GUI. GUI modules exist, but syntax for declaration is undefined. That's it for v0.2.0 (says v0.1.0 because Claude did that, but I treat it as v0.2.0 and nearly v1.0.0)
 ## Strong capabilities
 **1.** Loops. litesrpent has very, very fast loops (tested)\
 **2.** Processing. litesrpent can process huge quantities of code very quickly.\
@@ -26,7 +24,8 @@ core.lisp **can** be modified, if so please make a GitHub repo where it can be d
 ## Limits on Linux/Unix
 **1.** Precompiled source code is only distributed as a *Windows* executable, source code must be recompiled on Linux/Unix environments to run.\
 **2.** No icons on Linux/Unix environments as the logo is a .ico file, compatible primarly with Windows, requires converter for Linux/Unix environments.\
-**3.** The terminal is Windows, using Linux executables for it would result in a different interface.
+**3.** The terminal is Windows, using Linux executables for it would result in a different interface.\
+**4.** Can't use true compiler. Linux/Unix environments aren't paticulary COFF compatible, COFF compiler won't work properly on those environments.
 ## The good part of litesrpent
 **Completely open source software that is free to distribute and develop.**\
 Absolutely *nobody* will try to use litesrpent to gain a profit.
