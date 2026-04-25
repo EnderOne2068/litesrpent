@@ -17,7 +17,7 @@ Windows or Linux as OS
 ## Strong capabilities
 **1.** Loops. litesrpent has very, very fast loops (tested)\
 **2.** Processing. litesrpent can process huge quantities of code very quickly.\
-**3.** File size (primary executable). Only 1.2 MB with 400 KB icon linking plus multiple other powerful features.\
+**3.** File size is amazing, around 5MB in total with tons of COFF libraries and binaries.\
 **4.** Powerful processing. Can process complex macros and functions very well and at high speeds.
 ## About modifications to core.lisp
 core.lisp **can** be modified, if so please make a GitHub repo where it can be downloaded as an extension to the litesrpent stdlibs!
