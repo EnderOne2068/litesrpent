@@ -12,7 +12,7 @@ The /stdlib folder is only for lextils.lisp, core.lisp, and uiop.lisp, it needs 
 ## Build requirements
 GCC (C11+)\
 Git (amalgamation)\
-Resource Hacker (optional, but necessary for icon)\
+Resource Hacker or [Resource Cracker](https://www.pelock.com/products/resource-cracker) (optional, but necessary for icon)\
 Windows or Linux as OS
 ## Strong capabilities
 **1.** Loops. litesrpent has very, very fast loops (tested)\
